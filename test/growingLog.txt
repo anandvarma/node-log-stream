@@ -1,0 +1,5 @@
+Run test.js
+Append data to this file and see the changes being reflected on stdout
+
+Log line 1
+Log Line 2....
